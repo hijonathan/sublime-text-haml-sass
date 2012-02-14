@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>haml</string>
+		<string>hamlpy</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>^\s*([-%#\:\.\w\=].*)\s$</string>
@@ -13,7 +14,7 @@
 	<key>keyEquivalent</key>
 	<string>^~H</string>
 	<key>name</key>
-	<string>Ruby Haml</string>
+	<string>Haml</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -395,7 +396,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>text.haml</string>
+	<string>source.haml</string>
 	<key>uuid</key>
 	<string>3D727049-DD05-45DF-92A5-D50EA36FD035</string>
 </dict>
